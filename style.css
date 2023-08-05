@@ -69,3 +69,8 @@ body {
 .black-key[data-note="A#"] {
     display: flex;
 }
+
+.active {
+    scale: 0.98;
+    box-shadow: 1px 1px 2px #666;
+}
